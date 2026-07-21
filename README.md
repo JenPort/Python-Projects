@@ -1,2 +1,2 @@
 # Python-Assignments
-A folder for all Python Assignments I do.
+A folder for all Python Projects I do.
